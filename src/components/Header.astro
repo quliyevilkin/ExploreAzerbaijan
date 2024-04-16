@@ -22,7 +22,7 @@ import { SITE_TITLE } from '../consts';
 				>
 			</a>
 			<a href="https://twitter.com/glyvilkn" target="_blank">
-				<span class="sr-only">Follow Astro on Twitter</span>
+				<span class="sr-only">Follow me on Twitter</span>
 				<svg viewBox="0 0 16 16" aria-hidden="true" width="32" height="32"
 					><path
 						fill="currentColor"
@@ -31,7 +31,7 @@ import { SITE_TITLE } from '../consts';
 				>
 			</a>
 			<a href="https://github.com/quliyevilkin" target="_blank">
-				<span class="sr-only">Go to Astro's GitHub repo</span>
+				<span class="sr-only">Go to my Github account</span>
 				<svg viewBox="0 0 16 16" aria-hidden="true" width="32" height="32"
 					><path
 						fill="currentColor"
@@ -78,8 +78,15 @@ import { SITE_TITLE } from '../consts';
 		display: flex;
 	}
 	@media (max-width: 720px) {
+		nav{
+			display: flex;
+			flex-direction: column;;
+		}
 		.social-links {
 			display: none;
+		}
+		h2{
+			margin-top: 20px;
 		}
 	}
 </style>
