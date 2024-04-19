@@ -1,16 +1,71 @@
 ---
-title: 'Third post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 22 2022'
-heroImage: '/blog-placeholder-2.jpg'
+title: 'Top 5 Azerbaijani Dishes'
+description: 'Top 5 Azerbaijani Dishes'
+pubDate: 'April 18 2024'
+heroImage: '/3_0.jpg'
 ---
+Trying traditional dishes is one of the best ways to get to know a new country, and for Azerbaijani cuisine, this theory is quite relevant. Delicious, hearty, and varied Azerbaijani dishes will impress and surprise you no less than the numerous natural and cultural attractions of Azerbaijan. Be prepared to have a nourishing breakfast, lunch, and dinner. The local Azerbaijani dish is very high in calories! You will encounter dishes of Azerbaijani cuisine with various types of meat at every step: plovs, soups, pies, poultry, and fish dishes. You can try these delicacies at any restaurant or local household. Vegetables, fruits, and dried fruits are also actively used as a principal or additional ingredient. Many Azerbaijani meals are delicately seasoned with fragrant spices in various combinations and proportions, making each dish unique and inimitable.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Azerbaijani cuisine has a unique national flavor due to the distinctiveness of culinary talents as well as the customs of serving and eating food. The Azerbaijani feast will impress you with a multi-colored palette of delectable delicacies, each deserving of its description. We've assembled a list of some of Azerbaijan's most distinctive foods that you should taste while visiting the country.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+#### Plov
+<br>
+ <img src="/plov.jpeg">
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+For Azerbaijanis, plov is more than a dish; dozens of varieties of Azerbaijani plov recipes are passed down from generation to generation. The essential ingredients in plov are rice and meat, but the types of meat used, the vegetables and dried fruits used, the spices used, and the way the plov is served all vary.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+Enjoy the delicate taste of Chigirtma plov to appreciate the combination of chicken meat, whisked eggs, and melted butter. Also, try the fried lamb Parcha Doshamya Plov, which is greasy and heavy in calories. Try the Shirin plov with cinnamon, dried apricots, barberry, and prunes. Choose Shah-plov, the king of plovs with the shape of a big pie, for the most stunning presentation of plov. Whatever sort of plov you favor, learning about it will open your eyes to the richness and complexity of Azerbaijani culture.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+#### Dovga
+<br>
+
+<img src="/dovga.jpg">
+
+A light, sour-milk-based soup made of yogurt, flour, eggs, spices, and herbs is a great meal, both on hot and cool days. The peculiarity of the dish is that it can be consumed both hot and cold. Eating Dovga is especially pleasant during the autumn weather. While it's cold outside, the steaming fragrant dovga will warm you and help restore strength. The soup's spicy sourness comes from greens and a milk base, while the dish's heartiness and richness come from eggs, flour, and rice.
+
+
+#### Levengi
+<br>
+<img src="/levengi.jpg" class="sa">
+
+
+
+Levengi or Lavangi is a national dish of Azerbaijan. This meal consists of chicken or fish, filled with fried onion, walnut, and dried fruit stuffing. Caviar is added to the filling if fish is the main ingredient. To give it a particularly deep flavor and aroma, the entire meal is cooked in a tandoor clay oven. Then the chicken is coated in a rich paste of tamarind sauce or cherry-plum sauce, which gives it extra taste. The finished dish is adorned with onion rings, sliced cucumbers, tomatoes, pomegranate seeds, or chopped herbs.
+
+#### Qutab
+<br>
+<img src="/gutab.jpg">
+
+Any traveler will fall in love with a traditional Azerbaijani thin dough pie called Qutab. This hearty and delicious dish can be made in a variety of ways and with a variety of toppings. Qutab can be filled with fresh herbs, meat, cheese, pumpkin, onions, pomegranate seeds, and other ingredients. Butter is slathered on ready-made hot pies, making them even more appealing.
+
+
+
+#### Piti
+<br>
+<img src="/piti.jpg">
+
+Piti is Azerbaijani soup made of tail fat and vegetables cooked in an aromatic mutton bone broth. Like many other Azerbaijani dishes, it is distinguished by its rich taste. The name of the soup comes from the name of a small clay pot in which pity was traditionally prepared. You can find variations of this soup. For example, beef is also used in the preparation of the dish. Although, its key ingredients are lamb and chickpeas, complemented by cherry plums, vegetables, and seasonings. Piti soup is also served with pickles and lavash. You can eat piti in Sheki distirct.
+
+
+<a href="https://kofe.al/@qlyvilkn" class="giris" target="_blank">🍩 Support</a>
+	<style>
+		.giris{
+			display: flex;
+    		justify-content: center;
+    		align-items: center;
+    		width: 130px;
+    		height: 50px;
+    		border-radius: 24px;
+    		gap: 8px;
+    		background-color:#4f23ff;
+    		color: rgba(250, 250, 250, 1);
+			text-decoration: none;
+}
+	</style>
+
+
+
+
+
+
+    
