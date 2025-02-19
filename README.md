@@ -1,68 +1,90 @@
-# Astro Starter Kit: Blog
+# Explore Azerbaijan
 
+Explore Azerbaijan is a web platform designed to provide information about Azerbaijan's rich culture, history, and travel destinations. The website serves as a guide for tourists, offering insights into local attractions, travel tips, and recommendations for a memorable experience.
+
+## Features
+
+- **Comprehensive Travel Guide**: Detailed information about Azerbaijan’s historical landmarks, cultural spots, and natural wonders.
+- **Tour Recommendations**: Suggestions for different types of tours, including city walks, nature excursions, and cultural experiences.
+- **User-Friendly Interface**: A clean and intuitive UI for easy navigation.
+- **Performance Optimized**: Built with the Astro framework for fast load times and efficient rendering.
+- **Responsive Design**: Accessible across various devices, including desktops, tablets, and smartphones.
+
+## Technologies Used
+
+- **Astro**: A modern framework designed for fast, content-focused websites.
+- **Tailwind CSS**: For styling and responsive design.
+- **Markdown**: Used for managing content efficiently.
+- **Vercel**: Hosting platform for seamless deployment and performance optimization.
+
+## Installation & Setup
+
+### Prerequisites
+Ensure you have the following installed on your system:
+- Node.js (latest stable version)
+- Git
+
+### Clone the Repository
 ```sh
-npm create astro@latest -- --template blog
+git clone https://github.com/your-username/explore-azerbaijan.git
+cd explore-azerbaijan
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/blog)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/blog/devcontainer.json)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-![blog](https://github.com/withastro/astro/assets/2244813/ff10799f-a816-4703-b967-c78997e8323d)
-
-Features:
-
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-├── public/
-├── src/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
-├── astro.config.mjs
-├── README.md
-├── package.json
-└── tsconfig.json
+### Install Dependencies
+```sh
+npm install
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+### Run Development Server
+```sh
+npm run dev
+```
+The project should now be running on `http://localhost:3000/`
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+### Build for Production
+```sh
+npm run build
+```
 
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
+## Deployment
+This project is deployed on **Vercel**. To deploy your own version:
+1. Create an account on [Vercel](https://vercel.com/).
+2. Install the Vercel CLI:
+   ```sh
+   npm install -g vercel
+   ```
+3. Deploy the project:
+   ```sh
+   vercel
+   ```
+   Follow the on-screen instructions to complete the deployment.
 
-Any static assets, like images, can be placed in the `public/` directory.
+## Contribution
+If you'd like to contribute to **Explore Azerbaijan**, follow these steps:
+1. Fork the repository.
+2. Create a new branch:
+   ```sh
+   git checkout -b feature-name
+   ```
+3. Make your changes and commit:
+   ```sh
+   git commit -m "Add new feature"
+   ```
+4. Push to your fork:
+   ```sh
+   git push origin feature-name
+   ```
+5. Create a Pull Request.
 
-## 🧞 Commands
+## Contact
+For any inquiries or suggestions, feel free to reach out:
+- **Website**: [Explore Azerbaijan](https://explore-azerbaijan.vercel.app/)
+- **Email**: your-email@example.com
 
-All commands are run from the root of the project, from a terminal:
+## License
+This project is licensed under the MIT License. Feel free to use and modify it according to your needs.
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+---
 
-## 👀 Want to learn more?
+Happy exploring! 🇦🇿
 
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-
-## Credit
-
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
